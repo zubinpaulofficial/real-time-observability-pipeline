@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
-st.title("🚀 Observability Dashboard")
+st.title("Observability Dashboard")
 
 API_URL = "http://api:8000/metrics"
 
