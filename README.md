@@ -69,7 +69,7 @@ Visualizes system health in real time through charts and metrics.
 ### 1. Clone the repository
 
 ```bash```
-git clone https://github.com/yourusername/real-time-observability-pipeline.git
+git clone https://github.com/zubinpaulofficial/real-time-observability-pipeline.git
 cd real-time-observability-pipeline
 
 ### 2. Start all services
