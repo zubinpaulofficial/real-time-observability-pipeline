@@ -95,13 +95,14 @@ http://localhost:8501
 
 ## Example Event
 
-````json```
+````json
 {
   "service": "payment",
   "status": "error",
   "latency_ms": 1377,
   "timestamp": "2026-04-19T18:13:37"
 }
+```
 
 ---
 
