@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+scikit-learn
+
+psycopg2-binary
+pyyaml
+
+kafka-python
+
+fastapi
+uvicorn
+
+streamlit
+requests

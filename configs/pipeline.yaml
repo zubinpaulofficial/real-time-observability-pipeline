@@ -1,0 +1,9 @@
+pipeline:
+  sleep_time: 1
+  batch_size: 10
+
+thresholds:
+  high_latency: 1000
+
+anomaly:
+  z_threshold: 2.5
